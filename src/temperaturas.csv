@@ -1,249 +1,249 @@
 Ciudad,Fecha,Temperatura
-Bogotá,01/01/2023,17.3
-Bogotá,02/01/2023,16.8
-Bogotá,03/01/2023,17.1
-Bogotá,04/01/2023,17.4
-Bogotá,05/01/2023,16.6
-Bogotá,06/01/2023,16.2
-Bogotá,07/01/2023,16.9
-Bogotá,08/01/2023,17.0
-Bogotá,09/01/2023,17.2
-Bogotá,10/01/2023,17.5
-Bogotá,11/01/2023,16.7
-Bogotá,12/01/2023,16.4
-Bogotá,13/01/2023,17.0
-Bogotá,14/01/2023,17.3
-Bogotá,15/01/2023,16.8
-Bogotá,16/01/2023,16.5
-Bogotá,17/01/2023,17.1
-Bogotá,18/01/2023,17.4
-Bogotá,19/01/2023,17.2
-Bogotá,20/01/2023,17.6
-Bogotá,21/01/2023,16.9
-Bogotá,22/01/2023,16.5
-Bogotá,23/01/2023,17.0
-Bogotá,24/01/2023,17.3
-Bogotá,25/01/2023,16.7
-Bogotá,26/01/2023,16.9
-Bogotá,27/01/2023,17.1
-Bogotá,28/01/2023,17.4
-Bogotá,29/01/2023,17.2
-Bogotá,30/01/2023,16.8
-Bogotá,31/01/2023,17.0
-Medellín,01/01/2023,22.5
-Medellín,02/01/2023,23.1
-Medellín,03/01/2023,22.8
-Medellín,04/01/2023,23.0
-Medellín,05/01/2023,22.7
-Medellín,06/01/2023,22.4
-Medellín,07/01/2023,22.9
-Medellín,08/01/2023,23.2
-Medellín,09/01/2023,22.6
-Medellín,10/01/2023,22.8
-Medellín,11/01/2023,23.1
-Medellín,12/01/2023,22.7
-Medellín,13/01/2023,22.9
-Medellín,14/01/2023,23.0
-Medellín,15/01/2023,22.6
-Medellín,16/01/2023,22.5
-Medellín,17/01/2023,23.0
-Medellín,18/01/2023,23.2
-Medellín,19/01/2023,22.9
-Medellín,20/01/2023,23.1
-Medellín,21/01/2023,22.8
-Medellín,22/01/2023,22.6
-Medellín,23/01/2023,23.0
-Medellín,24/01/2023,23.3
-Medellín,25/01/2023,22.7
-Medellín,26/01/2023,22.9
-Medellín,27/01/2023,23.1
-Medellín,28/01/2023,22.8
-Medellín,29/01/2023,23.0
-Medellín,30/01/2023,22.7
-Medellín,31/01/2023,23.0
-Cali,01/01/2023,28.3
-Cali,02/01/2023,29.1
-Cali,03/01/2023,28.7
-Cali,04/01/2023,28.9
-Cali,05/01/2023,29.2
-Cali,06/01/2023,28.8
-Cali,07/01/2023,29.0
-Cali,08/01/2023,29.3
-Cali,09/01/2023,28.6
-Cali,10/01/2023,28.9
-Cali,11/01/2023,29.1
-Cali,12/01/2023,28.7
-Cali,13/01/2023,29.0
-Cali,14/01/2023,29.2
-Cali,15/01/2023,28.8
-Cali,16/01/2023,28.6
-Cali,17/01/2023,29.1
-Cali,18/01/2023,29.3
-Cali,19/01/2023,28.9
-Cali,20/01/2023,29.2
-Cali,21/01/2023,28.8
-Cali,22/01/2023,28.7
-Cali,23/01/2023,29.0
-Cali,24/01/2023,29.4
-Cali,25/01/2023,28.9
-Cali,26/01/2023,29.1
-Cali,27/01/2023,29.3
-Cali,28/01/2023,28.8
-Cali,29/01/2023,29.0
-Cali,30/01/2023,29.2
-Cali,31/01/2023,28.9
-Cartagena,01/01/2023,29.2
-Cartagena,02/01/2023,30.1
-Cartagena,03/01/2023,29.8
-Cartagena,04/01/2023,30.0
-Cartagena,05/01/2023,30.3
-Cartagena,06/01/2023,30.1
-Cartagena,07/01/2023,30.2
-Cartagena,08/01/2023,30.4
-Cartagena,09/01/2023,29.9
-Cartagena,10/01/2023,30.2
-Cartagena,11/01/2023,30.3
-Cartagena,12/01/2023,30.0
-Cartagena,13/01/2023,30.1
-Cartagena,14/01/2023,30.4
-Cartagena,15/01/2023,30.2
-Cartagena,16/01/2023,30.0
-Cartagena,17/01/2023,30.3
-Cartagena,18/01/2023,30.5
-Cartagena,19/01/2023,30.1
-Cartagena,20/01/2023,30.4
-Cartagena,21/01/2023,30.2
-Cartagena,22/01/2023,30.0
-Cartagena,23/01/2023,30.3
-Cartagena,24/01/2023,30.6
-Cartagena,25/01/2023,30.1
-Cartagena,26/01/2023,30.3
-Cartagena,27/01/2023,30.5
-Cartagena,28/01/2023,30.2
-Cartagena,29/01/2023,30.4
-Cartagena,30/01/2023,30.1
-Cartagena,31/01/2023,30.3
-Barranquilla,01/01/2023,28.8
-Barranquilla,02/01/2023,29.0
-Barranquilla,03/01/2023,29.2
-Barranquilla,04/01/2023,29.3
-Barranquilla,05/01/2023,29.4
-Barranquilla,06/01/2023,29.1
-Barranquilla,07/01/2023,29.3
-Barranquilla,08/01/2023,29.5
-Barranquilla,09/01/2023,29.0
-Barranquilla,10/01/2023,29.2
-Barranquilla,11/01/2023,29.4
-Barranquilla,12/01/2023,29.1
-Barranquilla,13/01/2023,29.3
-Barranquilla,14/01/2023,29.6
-Barranquilla,15/01/2023,29.2
-Barranquilla,16/01/2023,29.0
-Barranquilla,17/01/2023,29.4
-Barranquilla,18/01/2023,29.6
-Barranquilla,19/01/2023,29.3
-Barranquilla,20/01/2023,29.5
-Barranquilla,21/01/2023,29.2
-Barranquilla,22/01/2023,29.0
-Barranquilla,23/01/2023,29.4
-Barranquilla,24/01/2023,29.7
-Barranquilla,25/01/2023,29.3
-Barranquilla,26/01/2023,29.4
-Barranquilla,27/01/2023,29.6
-Barranquilla,28/01/2023,29.2
-Barranquilla,29/01/2023,29.5
-Barranquilla,30/01/2023,29.1
-Barranquilla,31/01/2023,29.4
-Santa Marta,01/01/2023,27.6
-Santa Marta,02/01/2023,27.9
-Santa Marta,03/01/2023,28.1
-Santa Marta,04/01/2023,28.0
-Santa Marta,05/01/2023,28.2
-Santa Marta,06/01/2023,28.3
-Santa Marta,07/01/2023,28.1
-Santa Marta,08/01/2023,28.4
-Santa Marta,09/01/2023,28.0
-Santa Marta,10/01/2023,28.2
-Santa Marta,11/01/2023,28.3
-Santa Marta,12/01/2023,28.1
-Santa Marta,13/01/2023,28.4
-Santa Marta,14/01/2023,28.5
-Santa Marta,15/01/2023,28.2
-Santa Marta,16/01/2023,28.0
-Santa Marta,17/01/2023,28.3
-Santa Marta,18/01/2023,28.6
-Santa Marta,19/01/2023,28.2
-Santa Marta,20/01/2023,28.4
-Santa Marta,21/01/2023,28.3
-Santa Marta,22/01/2023,28.1
-Santa Marta,23/01/2023,28.5
-Santa Marta,24/01/2023,28.7
-Santa Marta,25/01/2023,28.3
-Santa Marta,26/01/2023,28.4
-Santa Marta,27/01/2023,28.6
-Santa Marta,28/01/2023,28.2
-Santa Marta,29/01/2023,28.5
-Santa Marta,30/01/2023,28.3
-Santa Marta,31/01/2023,28.4
-Bucaramanga,01/01/2023,25.8
-Bucaramanga,02/01/2023,26.1
-Bucaramanga,03/01/2023,26.3
-Bucaramanga,04/01/2023,26.2
-Bucaramanga,05/01/2023,26.4
-Bucaramanga,06/01/2023,26.5
-Bucaramanga,07/01/2023,26.3
-Bucaramanga,08/01/2023,26.6
-Bucaramanga,09/01/2023,26.2
-Bucaramanga,10/01/2023,26.4
-Bucaramanga,11/01/2023,26.5
-Bucaramanga,12/01/2023,26.3
-Bucaramanga,13/01/2023,26.6
-Bucaramanga,14/01/2023,26.7
-Bucaramanga,15/01/2023,26.4
-Bucaramanga,16/01/2023,26.2
-Bucaramanga,17/01/2023,26.5
-Bucaramanga,18/01/2023,26.8
-Bucaramanga,19/01/2023,26.4
-Bucaramanga,20/01/2023,26.6
-Bucaramanga,21/01/2023,26.5
-Bucaramanga,22/01/2023,26.3
-Bucaramanga,23/01/2023,26.7
-Bucaramanga,24/01/2023,26.9
-Bucaramanga,25/01/2023,26.5
-Bucaramanga,26/01/2023,26.6
-Bucaramanga,27/01/2023,26.8
-Bucaramanga,28/01/2023,26.4
-Bucaramanga,29/01/2023,26.7
-Bucaramanga,30/01/2023,26.5
-Bucaramanga,31/01/2023,26.6
-Pereira,01/01/2023,20.8
-Pereira,02/01/2023,21.1
-Pereira,03/01/2023,21.3
-Pereira,04/01/2023,21.2
-Pereira,05/01/2023,21.4
-Pereira,06/01/2023,21.0
-Pereira,07/01/2023,21.2
-Pereira,08/01/2023,21.5
-Pereira,09/01/2023,21.1
-Pereira,10/01/2023,21.3
-Pereira,11/01/2023,21.4
-Pereira,12/01/2023,21.2
-Pereira,13/01/2023,21.5
-Pereira,14/01/2023,21.6
-Pereira,15/01/2023,21.3
-Pereira,16/01/2023,21.1
-Pereira,17/01/2023,21.4
-Pereira,18/01/2023,21.6
-Pereira,19/01/2023,21.3
-Pereira,20/01/2023,21.5
-Pereira,21/01/2023,21.2
-Pereira,22/01/2023,21.0
-Pereira,23/01/2023,21.4
-Pereira,24/01/2023,21.7
-Pereira,25/01/2023,21.3
-Pereira,26/01/2023,21.4
-Pereira,27/01/2023,21.6
-Pereira,28/01/2023,21.2
-Pereira,29/01/2023,21.5
-Pereira,30/01/2023,21.3
-Pereira,31/01/2023,21.4
+Bogotá,01/01/2025,17.3
+Bogotá,02/01/2025,16.8
+Bogotá,03/01/2025,17.1
+Bogotá,04/01/2025,17.4
+Bogotá,05/01/2025,16.6
+Bogotá,06/01/2025,16.2
+Bogotá,07/01/2025,16.9
+Bogotá,08/01/2025,17
+Bogotá,09/01/2025,17.2
+Bogotá,10/01/2025,17.5
+Bogotá,11/01/2025,16.7
+Bogotá,12/01/2025,16.4
+Bogotá,13/01/2025,17
+Bogotá,14/01/2025,17.3
+Bogotá,15/01/2025,16.8
+Bogotá,16/01/2025,16.5
+Bogotá,17/01/2025,17.1
+Bogotá,18/01/2025,17.4
+Bogotá,19/01/2025,17.2
+Bogotá,20/01/2025,17.6
+Bogotá,21/01/2025,16.9
+Bogotá,22/01/2025,16.5
+Bogotá,23/01/2025,17
+Bogotá,24/01/2025,17.3
+Bogotá,25/01/2025,16.7
+Bogotá,26/01/2025,16.9
+Bogotá,27/01/2025,17.1
+Bogotá,28/01/2025,17.4
+Bogotá,29/01/2025,17.2
+Bogotá,30/01/2025,16.8
+Bogotá,31/01/2025,17
+Medellín,01/01/2025,22.5
+Medellín,02/01/2025,23.1
+Medellín,03/01/2025,22.8
+Medellín,04/01/2025,23
+Medellín,05/01/2025,22.7
+Medellín,06/01/2025,22.4
+Medellín,07/01/2025,22.9
+Medellín,08/01/2025,23.2
+Medellín,09/01/2025,22.6
+Medellín,10/01/2025,22.8
+Medellín,11/01/2025,23.1
+Medellín,12/01/2025,22.7
+Medellín,13/01/2025,22.9
+Medellín,14/01/2025,23
+Medellín,15/01/2025,22.6
+Medellín,16/01/2025,22.5
+Medellín,17/01/2025,23
+Medellín,18/01/2025,23.2
+Medellín,19/01/2025,22.9
+Medellín,20/01/2025,23.1
+Medellín,21/01/2025,22.8
+Medellín,22/01/2025,22.6
+Medellín,23/01/2025,23
+Medellín,24/01/2025,23.3
+Medellín,25/01/2025,22.7
+Medellín,26/01/2025,22.9
+Medellín,27/01/2025,23.1
+Medellín,28/01/2025,22.8
+Medellín,29/01/2025,23
+Medellín,30/01/2025,22.7
+Medellín,31/01/2025,23
+Cali,01/01/2025,28.3
+Cali,02/01/2025,29.1
+Cali,03/01/2025,28.7
+Cali,04/01/2025,28.9
+Cali,05/01/2025,29.2
+Cali,06/01/2025,28.8
+Cali,07/01/2025,29
+Cali,08/01/2025,29.3
+Cali,09/01/2025,28.6
+Cali,10/01/2025,28.9
+Cali,11/01/2025,29.1
+Cali,12/01/2025,28.7
+Cali,13/01/2025,29
+Cali,14/01/2025,29.2
+Cali,15/01/2025,28.8
+Cali,16/01/2025,28.6
+Cali,17/01/2025,29.1
+Cali,18/01/2025,29.3
+Cali,19/01/2025,28.9
+Cali,20/01/2025,29.2
+Cali,21/01/2025,28.8
+Cali,22/01/2025,28.7
+Cali,23/01/2025,29
+Cali,24/01/2025,29.4
+Cali,25/01/2025,28.9
+Cali,26/01/2025,29.1
+Cali,27/01/2025,29.3
+Cali,28/01/2025,28.8
+Cali,29/01/2025,29
+Cali,30/01/2025,29.2
+Cali,31/01/2025,28.9
+Cartagena,01/01/2025,29.2
+Cartagena,02/01/2025,30.1
+Cartagena,03/01/2025,29.8
+Cartagena,04/01/2025,30
+Cartagena,05/01/2025,30.3
+Cartagena,06/01/2025,30.1
+Cartagena,07/01/2025,30.2
+Cartagena,08/01/2025,30.4
+Cartagena,09/01/2025,29.9
+Cartagena,10/01/2025,30.2
+Cartagena,11/01/2025,30.3
+Cartagena,12/01/2025,30
+Cartagena,13/01/2025,30.1
+Cartagena,14/01/2025,30.4
+Cartagena,15/01/2025,30.2
+Cartagena,16/01/2025,30
+Cartagena,17/01/2025,30.3
+Cartagena,18/01/2025,30.5
+Cartagena,19/01/2025,30.1
+Cartagena,20/01/2025,30.4
+Cartagena,21/01/2025,30.2
+Cartagena,22/01/2025,30
+Cartagena,23/01/2025,30.3
+Cartagena,24/01/2025,30.6
+Cartagena,25/01/2025,30.1
+Cartagena,26/01/2025,30.3
+Cartagena,27/01/2025,30.5
+Cartagena,28/01/2025,30.2
+Cartagena,29/01/2025,30.4
+Cartagena,30/01/2025,30.1
+Cartagena,31/01/2025,30.3
+Barranquilla,01/01/2025,28.8
+Barranquilla,02/01/2025,29
+Barranquilla,03/01/2025,29.2
+Barranquilla,04/01/2025,29.3
+Barranquilla,05/01/2025,29.4
+Barranquilla,06/01/2025,29.1
+Barranquilla,07/01/2025,29.3
+Barranquilla,08/01/2025,29.5
+Barranquilla,09/01/2025,29
+Barranquilla,10/01/2025,29.2
+Barranquilla,11/01/2025,29.4
+Barranquilla,12/01/2025,29.1
+Barranquilla,13/01/2025,29.3
+Barranquilla,14/01/2025,29.6
+Barranquilla,15/01/2025,29.2
+Barranquilla,16/01/2025,29
+Barranquilla,17/01/2025,29.4
+Barranquilla,18/01/2025,29.6
+Barranquilla,19/01/2025,29.3
+Barranquilla,20/01/2025,29.5
+Barranquilla,21/01/2025,29.2
+Barranquilla,22/01/2025,29
+Barranquilla,23/01/2025,29.4
+Barranquilla,24/01/2025,29.7
+Barranquilla,25/01/2025,29.3
+Barranquilla,26/01/2025,29.4
+Barranquilla,27/01/2025,29.6
+Barranquilla,28/01/2025,29.2
+Barranquilla,29/01/2025,29.5
+Barranquilla,30/01/2025,29.1
+Barranquilla,31/01/2025,29.4
+Santa Marta,01/01/2025,27.6
+Santa Marta,02/01/2025,27.9
+Santa Marta,03/01/2025,28.1
+Santa Marta,04/01/2025,28
+Santa Marta,05/01/2025,28.2
+Santa Marta,06/01/2025,28.3
+Santa Marta,07/01/2025,28.1
+Santa Marta,08/01/2025,28.4
+Santa Marta,09/01/2025,28
+Santa Marta,10/01/2025,28.2
+Santa Marta,11/01/2025,28.3
+Santa Marta,12/01/2025,28.1
+Santa Marta,13/01/2025,28.4
+Santa Marta,14/01/2025,28.5
+Santa Marta,15/01/2025,28.2
+Santa Marta,16/01/2025,28
+Santa Marta,17/01/2025,28.3
+Santa Marta,18/01/2025,28.6
+Santa Marta,19/01/2025,28.2
+Santa Marta,20/01/2025,28.4
+Santa Marta,21/01/2025,28.3
+Santa Marta,22/01/2025,28.1
+Santa Marta,23/01/2025,28.5
+Santa Marta,24/01/2025,28.7
+Santa Marta,25/01/2025,28.3
+Santa Marta,26/01/2025,28.4
+Santa Marta,27/01/2025,28.6
+Santa Marta,28/01/2025,28.2
+Santa Marta,29/01/2025,28.5
+Santa Marta,30/01/2025,28.3
+Santa Marta,31/01/2025,28.4
+Bucaramanga,01/01/2025,25.8
+Bucaramanga,02/01/2025,26.1
+Bucaramanga,03/01/2025,26.3
+Bucaramanga,04/01/2025,26.2
+Bucaramanga,05/01/2025,26.4
+Bucaramanga,06/01/2025,26.5
+Bucaramanga,07/01/2025,26.3
+Bucaramanga,08/01/2025,26.6
+Bucaramanga,09/01/2025,26.2
+Bucaramanga,10/01/2025,26.4
+Bucaramanga,11/01/2025,26.5
+Bucaramanga,12/01/2025,26.3
+Bucaramanga,13/01/2025,26.6
+Bucaramanga,14/01/2025,26.7
+Bucaramanga,15/01/2025,26.4
+Bucaramanga,16/01/2025,26.2
+Bucaramanga,17/01/2025,26.5
+Bucaramanga,18/01/2025,26.8
+Bucaramanga,19/01/2025,26.4
+Bucaramanga,20/01/2025,26.6
+Bucaramanga,21/01/2025,26.5
+Bucaramanga,22/01/2025,26.3
+Bucaramanga,23/01/2025,26.7
+Bucaramanga,24/01/2025,26.9
+Bucaramanga,25/01/2025,26.5
+Bucaramanga,26/01/2025,26.6
+Bucaramanga,27/01/2025,26.8
+Bucaramanga,28/01/2025,26.4
+Bucaramanga,29/01/2025,26.7
+Bucaramanga,30/01/2025,26.5
+Bucaramanga,31/01/2025,26.6
+Pereira,01/01/2025,20.8
+Pereira,02/01/2025,21.1
+Pereira,03/01/2025,21.3
+Pereira,04/01/2025,21.2
+Pereira,05/01/2025,21.4
+Pereira,06/01/2025,21
+Pereira,07/01/2025,21.2
+Pereira,08/01/2025,21.5
+Pereira,09/01/2025,21.1
+Pereira,10/01/2025,21.3
+Pereira,11/01/2025,21.4
+Pereira,12/01/2025,21.2
+Pereira,13/01/2025,21.5
+Pereira,14/01/2025,21.6
+Pereira,15/01/2025,21.3
+Pereira,16/01/2025,21.1
+Pereira,17/01/2025,21.4
+Pereira,18/01/2025,21.6
+Pereira,19/01/2025,21.3
+Pereira,20/01/2025,21.5
+Pereira,21/01/2025,21.2
+Pereira,22/01/2025,21
+Pereira,23/01/2025,21.4
+Pereira,24/01/2025,21.7
+Pereira,25/01/2025,21.3
+Pereira,26/01/2025,21.4
+Pereira,27/01/2025,21.6
+Pereira,28/01/2025,21.2
+Pereira,29/01/2025,21.5
+Pereira,30/01/2025,21.3
+Pereira,31/01/2025,21.4

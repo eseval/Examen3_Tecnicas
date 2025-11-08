@@ -60,11 +60,11 @@ public class Ventana extends JFrame {
     // Panel entrada
     JPanel entrada = new JPanel();
     entrada.add(new JLabel("Desde (dd-MM-yyyy):"));
-    JTextField desde = new JTextField("01-01-2023", 12);
+    JTextField desde = new JTextField("01-01-2025", 12);
     entrada.add(desde);
 
     entrada.add(new JLabel("Hasta (dd-MM-yyyy):"));
-    JTextField hasta = new JTextField("31-01-2023", 12);
+    JTextField hasta = new JTextField("31-01-2025", 12);
     entrada.add(hasta);
 
     JButton btnGenerar = new JButton("Generar");
@@ -98,8 +98,8 @@ public class Ventana extends JFrame {
     JButton btnLimpiar = new JButton("Limpiar");
     btnLimpiar.addActionListener(
         e -> {
-          desde.setText("01-01-2023");
-          hasta.setText("31-01-2023");
+          desde.setText("01-01-2025");
+          hasta.setText("31-01-2025");
           if (panel.getComponentCount() > 1) {
             panel.remove(1);
           }
@@ -123,7 +123,7 @@ public class Ventana extends JFrame {
     // Entrada
     JPanel entrada = new JPanel();
     entrada.add(new JLabel("Fecha (dd-MM-yyyy):"));
-    JTextField fecha = new JTextField("01-01-2023", 12);
+    JTextField fecha = new JTextField("01-01-2025", 12);
     entrada.add(fecha);
 
     JButton btnBuscar = new JButton("Buscar");
@@ -178,7 +178,7 @@ public class Ventana extends JFrame {
     JButton btnLimpiar = new JButton("Limpiar");
     btnLimpiar.addActionListener(
         e -> {
-          fecha.setText("01-01-2023");
+          fecha.setText("01-01-2025");
           resultado.setText("");
         });
     entrada.add(btnLimpiar);
