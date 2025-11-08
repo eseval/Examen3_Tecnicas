@@ -74,6 +74,11 @@ public class Ventana extends JFrame {
             LocalDate inicio = LocalDate.parse(desde.getText(), formatoVista);
             LocalDate fin = LocalDate.parse(hasta.getText(), formatoVista);
 
+            if (inicio.isAfter(fin)){
+                JOptionPane.showMessageDialog(this, "'Desde' debe ser anterior a 'Hasta'");
+                return;
+            }
+
             // Llamar método funcional
             Map<String, Double> promedios = analizador.promediosPorCiudad(datos, inicio, fin);
 
