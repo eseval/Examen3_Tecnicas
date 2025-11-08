@@ -11,6 +11,7 @@ import modelo.Temperatura;
 public class Analizador {
   public Map<String, Double> promediosPorCiudad(
       List<Temperatura> datos, LocalDate inicio, LocalDate fin) {
+    System.out.println("Calculando promedios desde " + inicio + " hasta " + fin);
     return datos.stream()
         .filter(t -> !t.getFecha().isAfter(fin))
         .collect(
@@ -23,12 +24,14 @@ public class Analizador {
   }
 
   public Optional<Temperatura> masCalurosa(List<Temperatura> datos, LocalDate fecha) {
+    System.out.println("Buscando la temperatura más calurosa para: " + fecha);
     return datos.stream()
         .filter(t -> t.getFecha().equals(fecha))
         .max(Comparator.comparingDouble(Temperatura::getTemperatura));
   }
 
   public Optional<Temperatura> menosCalurosa(List<Temperatura> datos, LocalDate fecha) {
+    System.out.println("Buscando la temperatura menos calurosa para: " + fecha);
     return datos.stream()
         .filter(t -> t.getFecha().equals(fecha))
         .min(Comparator.comparingDouble(Temperatura::getTemperatura));
