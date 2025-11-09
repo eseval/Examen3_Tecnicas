@@ -13,13 +13,13 @@ public class Analizador {
       List<Temperatura> datos, LocalDate inicio, LocalDate fin) {
     System.out.println("Calculando promedios desde " + inicio + " hasta " + fin);
     return datos.stream()
-        .filter(t -> !t.getFecha().isAfter(fin))
+            .filter(t -> !t.getFecha().isBefore(inicio) && !t.getFecha().isAfter(fin))
         .collect(
             Collectors.groupingBy(
                 Temperatura::getCiudad, Collectors.averagingDouble(Temperatura::getTemperatura)))
         .entrySet()
         .stream()
-        .sorted(Map.Entry.comparingByKey())
+//        .sorted(Map.Entry.comparingByKey())
         .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue));
   }
 

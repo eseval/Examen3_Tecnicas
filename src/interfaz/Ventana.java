@@ -74,9 +74,16 @@ public class Ventana extends JFrame {
             LocalDate inicio = LocalDate.parse(desde.getText(), formatoVista);
             LocalDate fin = LocalDate.parse(hasta.getText(), formatoVista);
 
-            if (inicio.isAfter(fin)){
-                JOptionPane.showMessageDialog(this, "'Desde' debe ser anterior a 'Hasta'");
-                return;
+            if (inicio.isAfter(fin)) {
+              JOptionPane.showMessageDialog(this, "'Desde' debe ser anterior a 'Hasta'");
+              return;
+            }
+
+            boolean hayDatosEnFin = datos.stream().anyMatch(t -> t.getFecha().equals(fin));
+            if (!hayDatosEnFin) {
+              System.out.println("No hay datos para la fecha 'Hasta': " + fin);
+              JOptionPane.showMessageDialog(this, "No hay datos para la fecha 'Hasta'");
+              return;
             }
 
             // Llamar método funcional
